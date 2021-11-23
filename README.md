@@ -1,12 +1,16 @@
 ### Olá! Eu sou o Grifo! 👋
 
 ### Sou um Streamer afiliado na Twitch e um Programador Júnior
+
+- 🎮 Sou **APAIXONADO** por **Video-Games** desde pequeno e acredito fortemente no seu potencial de ajudar pessoas!
+
+- 🎯 Procuro me tornar um **Desenvolvedor de Jogos** 
  
-- 🔭 Hoje estou no meu quarto semestre em Ciências da Computação na UNIFOR
+- 🔭 Atualmente estou no meu **4º semestre** em **Ciências da Computação na UNIFOR** (Fortaleza-CE)
 
-- 🌱 Estou aprendendo Python e C# no Unity
+- 🌱 Estou aprendendo **Python** e **C#** no **Unity**
 
-- 👯 Estou à procura de colaborações com desenvolvedores interessados em Game Design!
+- 👯 Estou à procura de colaborações com desenvolvedores interessados em **Game Design**!
 
 <div align="center">
   <a href="https://github.com/grifoexe">
