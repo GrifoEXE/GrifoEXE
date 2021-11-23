@@ -1,6 +1,6 @@
-### Olá! eu sou o Grifo! 👋
+### Olá! Eu sou o Grifo! 👋
 
-### Sou um Streamer afiliado na Twitch e um programador júnior
+### Sou um Streamer afiliado na Twitch e um Programador Júnior
  
 - 🔭 Hoje estou no meu quarto semestre em Ciências da Computação na UNIFOR
 
