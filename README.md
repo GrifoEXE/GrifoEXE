@@ -8,6 +8,8 @@
  
 - 🔭 Atualmente estou no meu **4º semestre** em **Ciências da Computação na UNIFOR** (Fortaleza-CE)
 
+- 🎥 Atualmente meu canal na [Twitch](https://www.twitch.tv/grifoexe) tem mais de **1k seguidores!**
+
 - 🌱 Estou aprendendo **Python** e **C#** no **Unity**
 
 - 👯 Estou à procura de colaborações com desenvolvedores interessados em **Game Design**!
