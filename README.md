@@ -1,6 +1,6 @@
 ### Eu sou o Grifo 👋
 
-### Sou Streamer na <a href="https://www.twitch.tv/grifoexe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> e um Programador Júnior
+### Sou Streamer na <a href="https://www.twitch.tv/grifoexe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> e um Programador Trainee
 
 - 🎮 Sou **APAIXONADO** por **Video-Games** desde pequeno e acredito fortemente no seu potencial de ajudar pessoas
 
