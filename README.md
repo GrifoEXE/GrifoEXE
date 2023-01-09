@@ -6,7 +6,7 @@
 
 - 🎯 Procuro me tornar um **Desenvolvedor de Jogos** 
 
-- Aqui tem algumas das coisas que eu já fiz e estou trabalhando como programador, aproveite pra dar uma olhada e fazer sua prórpia versão ou sei lá.
+- Aqui tem algumas das coisas que eu já fiz e estou trabalhando como programador, aproveita pra dar uma olhada e fazer sua própria versão ou sei lá.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Grifo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
