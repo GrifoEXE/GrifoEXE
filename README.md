@@ -1,12 +1,9 @@
 ### Eu sou o Grifo 👋
 
-### Sou Streamer na <a href="https://www.twitch.tv/grifoexe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> e um Programador Trainee
-
-- 🎮 Gosto de **Video-Games** desde pequeno e acredito fortemente no seu potencial de ajudar pessoas
-
-- 🎯 Procuro me tornar um **Desenvolvedor de Jogos** 
+### Sou YouTuber e Analista de Desenvolvimento Front-End Trainee e 
 
 - Aqui tem algumas das coisas que eu já fiz e estou trabalhando como programador, aproveita pra dar uma olhada e fazer sua própria versão ou sei lá.
+- 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Grifo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
