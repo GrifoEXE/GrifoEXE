@@ -1,6 +1,6 @@
 ### Eu sou o Grifo 👋
 
-### Sou YouTuber e Analista de Desenvolvimento Front-End Trainee e 
+### Sou YouTuber e Dev Front-End
 
 - Aqui tem algumas das coisas que eu já fiz e estou trabalhando como programador, aproveita pra dar uma olhada e fazer sua própria versão ou sei lá.
 - 
